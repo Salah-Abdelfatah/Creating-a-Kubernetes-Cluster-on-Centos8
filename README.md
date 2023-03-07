@@ -10,5 +10,5 @@
 # Or Use Ubuntu-server without GUI
 # Then Set up the environment of Kubernetes cluster Using kubeAdmin
 # One Node Act as control plane (master) and others join to the cluster as workers.
-# =============================================================================================================
+
 
